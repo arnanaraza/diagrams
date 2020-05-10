@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-05-10T08:25:41.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="TMp0wKEDwKr0BmCV4EV1" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-10T08:28:20.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="BZqivgk4Oj0iKqNJscSx" version="13.0.9" type="github">
   <diagram id="bYQAmi5o1peEwi6wcEYm" name="Page-1">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ImHnCGzejqPpslmc5MgL-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="489" width="400" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="tvpbmF-MqwZpzHDY8pP6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tvpbmF-MqwZpzHDY8pP6-1" target="tvpbmF-MqwZpzHDY8pP6-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -109,22 +112,22 @@
           <mxGeometry x="721" y="344" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ImHnCGzejqPpslmc5MgL-25" value="&lt;span&gt;Input data&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="550" width="50" height="50" as="geometry" />
+          <mxGeometry x="496" y="504" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ImHnCGzejqPpslmc5MgL-26" value="&lt;font style=&quot;font-size: 9px&quot;&gt;intermediate data&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="540" width="70" height="70" as="geometry" />
+          <mxGeometry x="560" y="494" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ImHnCGzejqPpslmc5MgL-27" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="554.5" width="75" height="41" as="geometry" />
+          <mxGeometry x="646" y="509" width="75" height="41" as="geometry" />
         </mxCell>
         <mxCell id="ImHnCGzejqPpslmc5MgL-28" value="Results" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="552.5" width="90" height="45" as="geometry" />
+          <mxGeometry x="730" y="504.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ImHnCGzejqPpslmc5MgL-32" value="LEGEND" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="110" y="565" width="40" height="20" as="geometry" />
+          <mxGeometry x="436" y="519" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ImHnCGzejqPpslmc5MgL-38" value="PCA-based watershed clustering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="62" width="80" height="48" as="geometry" />
+          <mxGeometry x="280" y="62" width="90" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
