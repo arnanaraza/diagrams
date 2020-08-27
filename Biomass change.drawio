@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T04:19:08.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="GA2v0mMl9drY17b1VqAZ" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T04:41:49.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="U8pkhoS1e06snFoy04My" version="13.6.5" type="github">
   <diagram id="UiZ92aOFfSZIfiMHlA4H" name="Page-1">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,26 +10,20 @@
         <mxCell id="dIMfR6t1zzbhHHMH2o8x-1" value="AGB change modelling&lt;br&gt;(Direct method)&lt;br&gt;&lt;br&gt;Machine learning, Markov chain" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="330" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YI0aZgSimd2LB83yqrj3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dIMfR6t1zzbhHHMH2o8x-3" target="YI0aZgSimd2LB83yqrj3-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dIMfR6t1zzbhHHMH2o8x-3" value="&lt;b&gt;AGB and SD maps, Global&lt;/b&gt; &lt;br&gt;(1991-2018)&lt;br&gt;&lt;br&gt;ERS WindSCAT,ASCAT&lt;br&gt;25km" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="170" y="50" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="YI0aZgSimd2LB83yqrj3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dIMfR6t1zzbhHHMH2o8x-4" target="YI0aZgSimd2LB83yqrj3-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dIMfR6t1zzbhHHMH2o8x-4" value="&lt;b&gt;AGB and SD maps, Global &lt;br&gt;&lt;/b&gt;(2000, 2008, 2010, 2017)&lt;br&gt;&lt;br&gt;Baccini, GEO, Glob, CCI&lt;br&gt;100m-1km" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="370" y="50" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="YI0aZgSimd2LB83yqrj3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#D5E8D4;" parent="1" source="YI0aZgSimd2LB83yqrj3-1" target="YI0aZgSimd2LB83yqrj3-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YI0aZgSimd2LB83yqrj3-1" value="&lt;b&gt;AGB and SD maps, Regional&lt;/b&gt;&lt;br&gt;(2005, 2010, 2015)&lt;br&gt;&lt;br&gt;Mexico, S. Africa, Poland, Sweden, Kalimantan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="80" y="215" width="170" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="dIMfR6t1zzbhHHMH2o8x-4" value="&lt;b&gt;AGB and SD maps, Global &lt;br&gt;&lt;/b&gt;(2000, 2008, 2010, 2017)&lt;br&gt;&lt;br&gt;Baccini, GEO, Glob, CCI&lt;br&gt;100m-1km" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="65" y="120" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YI0aZgSimd2LB83yqrj3-1" value="&lt;b&gt;AGB and SD maps, Regional&lt;/b&gt;&lt;br&gt;(2005, 2010, 2015)&lt;br&gt;&lt;br&gt;Mexico, S. Africa, Poland, Sweden, Kalimantan, SLB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="280" y="70" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DOwFYTfHYZgn7NWsOiAq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YI0aZgSimd2LB83yqrj3-3" target="YI0aZgSimd2LB83yqrj3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-3" value="Bias-correction and differencing &lt;br&gt;(Indirect method)&lt;br&gt;&lt;br&gt;Model-based approach" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="215" width="130" height="70" as="geometry" />
+          <mxGeometry x="100" y="330" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YI0aZgSimd2LB83yqrj3-6" target="YI0aZgSimd2LB83yqrj3-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -37,8 +31,8 @@
         <mxCell id="YI0aZgSimd2LB83yqrj3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#D5E8D4;" parent="1" source="YI0aZgSimd2LB83yqrj3-6" target="YI0aZgSimd2LB83yqrj3-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YI0aZgSimd2LB83yqrj3-6" value="&lt;b&gt;AGB plot multi-date&lt;br&gt;&lt;/b&gt;&lt;br&gt;Tanzania, DRC, Uganda, Mozambique, Amazon, Mexico, Philippines, Indonesia, Australia, Alaska, Spain, Netherlands, Germany, Croatia, Sweden, Australia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="650" y="195" width="190" height="110" as="geometry" />
+        <mxCell id="YI0aZgSimd2LB83yqrj3-6" value="&lt;b&gt;AGB plot multi-date&lt;br&gt;&lt;/b&gt;&lt;br&gt;Tanzania, DRC, Uganda, Mozambique, Amazon, Mexico, Philippines, Indonesia, Australia, Alaska, Spain, Netherlands, Germany, Croatia, Sweden" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="650" y="210" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YI0aZgSimd2LB83yqrj3-7" target="YI0aZgSimd2LB83yqrj3-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -63,14 +57,14 @@
         <mxCell id="YI0aZgSimd2LB83yqrj3-12" value="STOCK DIFFERENCE METHOD" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="390" y="550" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YI0aZgSimd2LB83yqrj3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YI0aZgSimd2LB83yqrj3-15" target="YI0aZgSimd2LB83yqrj3-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#D5E8D4;" parent="1" source="YI0aZgSimd2LB83yqrj3-15" target="dIMfR6t1zzbhHHMH2o8x-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DOwFYTfHYZgn7NWsOiAq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YI0aZgSimd2LB83yqrj3-15" target="DOwFYTfHYZgn7NWsOiAq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-15" value="Plot harmonization&lt;br&gt;&lt;br&gt;Forest area scaling&lt;br&gt;Temporal adjustment&lt;br&gt;Weighted AGB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="215" width="130" height="70" as="geometry" />
+          <mxGeometry x="480" y="230" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YI0aZgSimd2LB83yqrj3-18" target="YI0aZgSimd2LB83yqrj3-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,11 +78,11 @@
         <mxCell id="YI0aZgSimd2LB83yqrj3-37" value="AGB change with confidence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="292.5" y="330" width="125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YI0aZgSimd2LB83yqrj3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YI0aZgSimd2LB83yqrj3-3" target="YI0aZgSimd2LB83yqrj3-37" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355" y="285" as="sourcePoint" />
-            <mxPoint x="355" y="420" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="DOwFYTfHYZgn7NWsOiAq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOwFYTfHYZgn7NWsOiAq-2" target="YI0aZgSimd2LB83yqrj3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DOwFYTfHYZgn7NWsOiAq-2" value="Local multi-date AGB mapping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
