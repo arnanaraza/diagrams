@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T11:13:54.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="b59eWZH_zd6OWjz7F6xI" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T11:15:49.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Wd3ufkWLPT-5F91vAJjQ" version="13.4.9" type="github">
   <diagram id="UiZ92aOFfSZIfiMHlA4H" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dIMfR6t1zzbhHHMH2o8x-1" value="AGB change modelling&lt;br&gt;(Direct method)&lt;br&gt;&lt;br&gt;Machine learning, Markov chain" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="350" width="130" height="70" as="geometry" />
+          <mxGeometry x="480" y="360" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DOwFYTfHYZgn7NWsOiAq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dIMfR6t1zzbhHHMH2o8x-3" target="YI0aZgSimd2LB83yqrj3-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -25,14 +25,17 @@
         <mxCell id="DOwFYTfHYZgn7NWsOiAq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YI0aZgSimd2LB83yqrj3-1" target="YI0aZgSimd2LB83yqrj3-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jcca6s_gtn0kNfPf4VLa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YI0aZgSimd2LB83yqrj3-1" target="YI0aZgSimd2LB83yqrj3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-1" value="&lt;b&gt;AGB and SD maps, Regional&lt;/b&gt;&lt;br&gt;(2005, 2010, 2015)&lt;br&gt;&lt;br&gt;Mexico, S. Africa, Poland, Sweden, Kalimantan, SLB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="80" y="230" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DOwFYTfHYZgn7NWsOiAq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YI0aZgSimd2LB83yqrj3-3" target="YI0aZgSimd2LB83yqrj3-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YI0aZgSimd2LB83yqrj3-3" value="Bias-correction and differencing &lt;br&gt;(Indirect method)&lt;br&gt;&lt;br&gt;Model-based approach" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="350" width="130" height="70" as="geometry" />
+        <mxCell id="YI0aZgSimd2LB83yqrj3-3" value="Bias and precision correction and differencing &lt;br&gt;(Indirect method)&lt;br&gt;&lt;br&gt;Model-based approach" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="350" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YI0aZgSimd2LB83yqrj3-6" target="YI0aZgSimd2LB83yqrj3-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-37" value="AGB change with confidence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="292.5" y="350" width="125" height="70" as="geometry" />
+          <mxGeometry x="292.5" y="360" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DOwFYTfHYZgn7NWsOiAq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DOwFYTfHYZgn7NWsOiAq-2" target="YI0aZgSimd2LB83yqrj3-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
