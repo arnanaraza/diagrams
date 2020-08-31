@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T08:01:25.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="LphCRXmXOYv6V3UFXbpl" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T11:08:42.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="3nsnMLpCA8V2dYdFDBuL" version="13.4.9" type="github">
   <diagram id="UiZ92aOFfSZIfiMHlA4H" name="Page-1">
-    <mxGraphModel dx="1038" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-12" value="STOCK DIFFERENCE METHOD" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="390" y="550" width="130" height="70" as="geometry" />
+          <mxGeometry x="400" y="570" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YI0aZgSimd2LB83yqrj3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#D5E8D4;" parent="1" source="YI0aZgSimd2LB83yqrj3-15" target="dIMfR6t1zzbhHHMH2o8x-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -95,6 +95,12 @@
         </mxCell>
         <mxCell id="DOwFYTfHYZgn7NWsOiAq-2" value="Local multi-date AGB mapping" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="230" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jcca6s_gtn0kNfPf4VLa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jcca6s_gtn0kNfPf4VLa-1" target="YI0aZgSimd2LB83yqrj3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcca6s_gtn0kNfPf4VLa-1" value="GAIN-LOSS METHOD" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
