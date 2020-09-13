@@ -1,26 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T09:32:09.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="OTiaq59AF5N78goBQTo-" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-13T11:23:32.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="3OEDOnHjtTMxziYXHhda" version="13.6.10" type="github">
   <diagram id="mMYe_e8tQoTcV_a2KwOk" name="Page-1">
-    <mxGraphModel dx="1483" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="340" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry y="180" width="640" height="370" as="geometry" />
+        </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a4Ieoe5F7typKowRFFFc-1" target="a4Ieoe5F7typKowRFFFc-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SWAT modelling&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="30" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a4Ieoe5F7typKowRFFFc-3" target="a4Ieoe5F7typKowRFFFc-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-3" value="Pre-calibration assessment" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="295" y="315" width="70" height="70" as="geometry" />
+          <mxGeometry x="235" y="315" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a4Ieoe5F7typKowRFFFc-5" target="a4Ieoe5F7typKowRFFFc-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-5" value="Input data (land cover, soil, slope, weather)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="30" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a4Ieoe5F7typKowRFFFc-6" target="a4Ieoe5F7typKowRFFFc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,59 +35,72 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-6" value="Observed data" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="290" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a4Ieoe5F7typKowRFFFc-8" target="a4Ieoe5F7typKowRFFFc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-8" value="&lt;span style=&quot;white-space: normal&quot;&gt;Baseline / uncalibrated reuslts&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="160" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="120" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a4Ieoe5F7typKowRFFFc-10" target="a4Ieoe5F7typKowRFFFc-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sd2CHTgp1ef8XjFPgXeH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.008;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a4Ieoe5F7typKowRFFFc-10" target="a4Ieoe5F7typKowRFFFc-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="621" y="377" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="376" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a4Ieoe5F7typKowRFFFc-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SWAT-CUP calibration and uncertainty assessment&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="420" y="300" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="a4Ieoe5F7typKowRFFFc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a4Ieoe5F7typKowRFFFc-11" target="a4Ieoe5F7typKowRFFFc-13" edge="1">
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4Ieoe5F7typKowRFFFc-10" target="a4Ieoe5F7typKowRFFFc-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sd2CHTgp1ef8XjFPgXeH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="a4Ieoe5F7typKowRFFFc-11">
+        <mxCell id="a4Ieoe5F7typKowRFFFc-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SWAT-CUP calibration and uncertainty assessment&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="360" y="300" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Sd2CHTgp1ef8XjFPgXeH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="a4Ieoe5F7typKowRFFFc-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="330" as="targetPoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="620" y="330" />
+              <mxPoint x="560" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4Ieoe5F7typKowRFFFc-11" target="a4Ieoe5F7typKowRFFFc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SWAT CC-LULC impact scenarios&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="620" y="309" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a4Ieoe5F7typKowRFFFc-12" value="Sensitive parameters" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="430" y="430" width="80" height="80" as="geometry" />
+        <mxCell id="a4Ieoe5F7typKowRFFFc-12" value="Sensitivity analysis results" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="370" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a4Ieoe5F7typKowRFFFc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a4Ieoe5F7typKowRFFFc-13" target="a4Ieoe5F7typKowRFFFc-27" edge="1">
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4Ieoe5F7typKowRFFFc-13" target="a4Ieoe5F7typKowRFFFc-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-13" value="Probability of streamflow changes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="620" y="430" width="80" height="80" as="geometry" />
+          <mxGeometry x="660" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a4Ieoe5F7typKowRFFFc-27" value="Risk assessment" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="760" y="430" width="80" height="80" as="geometry" />
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4Ieoe5F7typKowRFFFc-27" target="PxNAc8VLCIagy2K1qZwJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4Ieoe5F7typKowRFFFc-27" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Risk assessment&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="780" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a4Ieoe5F7typKowRFFFc-28" target="a4Ieoe5F7typKowRFFFc-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4Ieoe5F7typKowRFFFc-28" value="CC and LULC inputs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="620" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-2" value="Decision-support for watershed plans" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="890" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PxNAc8VLCIagy2K1qZwJ-14" target="a4Ieoe5F7typKowRFFFc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-14" value="Local data on water resource use" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="780" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-17" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Summary of best practices using SWAT and SWAT-CUP for modelling of impact scenarios&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="510" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PxNAc8VLCIagy2K1qZwJ-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Additional step of this study&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="515" width="236" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
