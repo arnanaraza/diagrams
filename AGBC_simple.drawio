@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T11:55:44.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_2q-F5MttFzgAAVmqXO-" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T14:08:10.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="zSJB3p2YSkXm4ea9B8rW" version="13.7.5" type="github">
   <diagram id="7Rsvs0vOTl0MpOckWxuK" name="Page-1">
-    <mxGraphModel dx="1483" dy="1981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="sPtuqEH-0CU76L_9MhWu-16" value="&lt;b&gt;FRA data&lt;br&gt;&lt;/b&gt;&lt;br&gt;2000 2010 2015" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="615" y="-580" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sPtuqEH-0CU76L_9MhWu-19" value="Annual or 5-year AGB accounting UNFCC nad SEEA formats" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="sPtuqEH-0CU76L_9MhWu-19" value="Annual or 5-year AGB accounting &lt;br&gt;&lt;br&gt;UNFCC nad SEEA formats" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="380" y="-360" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PQNr4_TIdTEO0NgWRt0n-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" parent="1" source="sPtuqEH-0CU76L_9MhWu-26" target="sPtuqEH-0CU76L_9MhWu-2" edge="1">
@@ -107,7 +107,7 @@
           <mxGeometry x="605" y="-700" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WyV3JQxwRowbb4DdgCYI-5" value="gain-loss" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="-730" width="90" height="20" as="geometry" />
+          <mxGeometry x="654" y="-729" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WyV3JQxwRowbb4DdgCYI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WyV3JQxwRowbb4DdgCYI-7" target="sPtuqEH-0CU76L_9MhWu-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
