@@ -1,131 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T14:48:52.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="y76SspKZZqP5a1le2jh9" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T09:34:42.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hG4cHEvkNEkZ3YhU-wNr" version="16.1.0" type="github">
   <diagram id="7Rsvs0vOTl0MpOckWxuK" name="Page-1">
     <mxGraphModel dx="1038" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8x20L6D--5wWEn27smdO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sPtuqEH-0CU76L_9MhWu-11" target="sPtuqEH-0CU76L_9MhWu-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPtuqEH-0CU76L_9MhWu-11" value="2018-2010 AGB &lt;br&gt;&lt;br&gt;Stock differencing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="296.2" y="-455.5" width="105" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sPtuqEH-0CU76L_9MhWu-19" value="Carbon accounts of four country cases" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="536.2" y="-350" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sPtuqEH-0CU76L_9MhWu-26" target="sPtuqEH-0CU76L_9MhWu-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPtuqEH-0CU76L_9MhWu-26" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Plot data&lt;br&gt;&lt;br&gt;One time&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="159.95" y="-650" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fktkGCMUGjywHagDH9KK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sPtuqEH-0CU76L_9MhWu-28" target="sPtuqEH-0CU76L_9MhWu-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPtuqEH-0CU76L_9MhWu-28" value="AGB change assessment" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="356.2" y="-350" width="125" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="WyV3JQxwRowbb4DdgCYI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sPtuqEH-0CU76L_9MhWu-43" target="WyV3JQxwRowbb4DdgCYI-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sPtuqEH-0CU76L_9MhWu-43" value="Global AGB map assessment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="286.2" y="-647.5" width="130" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WyV3JQxwRowbb4DdgCYI-3" target="8x20L6D--5wWEn27smdO-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WyV3JQxwRowbb4DdgCYI-3" target="sPtuqEH-0CU76L_9MhWu-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WyV3JQxwRowbb4DdgCYI-3" value="&lt;b&gt;Global AGB maps&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="446.2" y="-650" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WyV3JQxwRowbb4DdgCYI-7" target="WyV3JQxwRowbb4DdgCYI-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WyV3JQxwRowbb4DdgCYI-7" value="&lt;b&gt;Ecological variables&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="167.45" y="-557.5" width="65" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WyV3JQxwRowbb4DdgCYI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WyV3JQxwRowbb4DdgCYI-14" target="sPtuqEH-0CU76L_9MhWu-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WyV3JQxwRowbb4DdgCYI-14" target="8x20L6D--5wWEn27smdO-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WyV3JQxwRowbb4DdgCYI-14" value="Spatial uncertainty modelling &lt;br&gt;(bias and precision)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="283.7" y="-557.5" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fktkGCMUGjywHagDH9KK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8x20L6D--5wWEn27smdO-1" target="sPtuqEH-0CU76L_9MhWu-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-1" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;AGB change reference data&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="176.2" y="-347.5" width="87.5" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8x20L6D--5wWEn27smdO-5" target="sPtuqEH-0CU76L_9MhWu-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-5" value="2018-2010 AGB&lt;br&gt;&lt;br&gt;Carbon flux modelling" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="436.2" y="-455.5" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8x20L6D--5wWEn27smdO-7" target="8x20L6D--5wWEn27smdO-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-7" value="&lt;b&gt;Bias-adjusted maps&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="458.7" y="-557.5" width="65" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-21" value="2010 map" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="546.2" y="-527.5" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-22" value="&lt;b&gt;Input&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="626.2" y="-577.5" width="80" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-23" value="Step" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="626.2" y="-525" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8x20L6D--5wWEn27smdO-31" value="Output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="626.2" y="-475" width="80" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="fktkGCMUGjywHagDH9KK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fktkGCMUGjywHagDH9KK-2" target="8x20L6D--5wWEn27smdO-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fktkGCMUGjywHagDH9KK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fktkGCMUGjywHagDH9KK-2" target="sPtuqEH-0CU76L_9MhWu-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fktkGCMUGjywHagDH9KK-2" value="Quality check and pre-processing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="168.7" y="-450.75" width="102.5" height="50.5" as="geometry" />
-        </mxCell>
         <mxCell id="egnwOjGB7XM8ltA7sBcv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jS2ryzKoB4n19PCzrcQI-1" target="egnwOjGB7XM8ltA7sBcv-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jS2ryzKoB4n19PCzrcQI-1" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;AGB change reference data&lt;/b&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;LiDAR, NFI, FRA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="-1050" width="130" height="60" as="geometry" />
+          <mxGeometry x="200" y="-840" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="egnwOjGB7XM8ltA7sBcv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="egnwOjGB7XM8ltA7sBcv-2" target="egnwOjGB7XM8ltA7sBcv-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Th_g6OGHJ8AeCVoWn9Yl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.446;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="egnwOjGB7XM8ltA7sBcv-2" target="Th_g6OGHJ8AeCVoWn9Yl-3">
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="egnwOjGB7XM8ltA7sBcv-2" target="Th_g6OGHJ8AeCVoWn9Yl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="egnwOjGB7XM8ltA7sBcv-2" value="&lt;b&gt;AGB change products&lt;br&gt;&lt;/b&gt;&lt;br&gt;CCI, JPL, Flux, L-VOD&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="393.7" y="-1050" width="130" height="60" as="geometry" />
+          <mxGeometry x="510" y="-840" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Th_g6OGHJ8AeCVoWn9Yl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="egnwOjGB7XM8ltA7sBcv-6" target="egnwOjGB7XM8ltA7sBcv-13">
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="egnwOjGB7XM8ltA7sBcv-6" target="egnwOjGB7XM8ltA7sBcv-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="egnwOjGB7XM8ltA7sBcv-6" value="&lt;b&gt;Bias-adjusted maps&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="514.3" y="-860" width="88.8" height="40" as="geometry" />
+          <mxGeometry x="531.8" y="-655" width="88.8" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="egnwOjGB7XM8ltA7sBcv-13" value="&lt;b&gt;AGB change assessment&lt;/b&gt;&lt;br&gt;&lt;br&gt;500m 1km, 10km, 25km" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="283.7" y="-960" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Th_g6OGHJ8AeCVoWn9Yl-1" value="&lt;b&gt;AGB change assessment&lt;/b&gt;&lt;br&gt;&lt;br&gt;500m 1km, 10km, 25km" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286.2" y="-800" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Th_g6OGHJ8AeCVoWn9Yl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-3" target="egnwOjGB7XM8ltA7sBcv-6">
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="egnwOjGB7XM8ltA7sBcv-13" target="Th_g6OGHJ8AeCVoWn9Yl-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Th_g6OGHJ8AeCVoWn9Yl-3" value="&lt;b&gt;Spatial uncertainty modelling &lt;br&gt;&lt;/b&gt;&lt;br&gt;(bias and precision)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="501.2" y="-955" width="115" height="60" as="geometry" />
+        <mxCell id="egnwOjGB7XM8ltA7sBcv-13" value="&lt;b&gt;AGB change assessment&lt;/b&gt;&lt;br&gt;&lt;br&gt;500m 1km, 10km, 25km" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="-670" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-1" target="ppWgcIUpzZdJKE9_4pGy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-1" target="ppWgcIUpzZdJKE9_4pGy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-1" target="ppWgcIUpzZdJKE9_4pGy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Th_g6OGHJ8AeCVoWn9Yl-1" value="&lt;b&gt;User-oriented application&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="-560" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-3" target="egnwOjGB7XM8ltA7sBcv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Th_g6OGHJ8AeCVoWn9Yl-3" value="&lt;b&gt;Spatial uncertainty modelling &lt;br&gt;&lt;/b&gt;&lt;br&gt;(bias and precision)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="518.7" y="-745" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-1" value="forest = &amp;gt;30% tree cover" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317.45" y="-840" width="197.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-5" value="Carbon accounts of four country cases" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="360.00000000000006" y="-416" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-6" value="Global climate and carbon input" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="220.00000000000006" y="-416" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ppWgcIUpzZdJKE9_4pGy-7" value="Global, biome and country summary" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="510.00000000000006" y="-416" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
