@@ -1,21 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T17:04:47.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="v1xfC7D4hOjw7BljHFQl" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T05:15:26.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="b1ejiraxTk5ypkXyv-6t" version="16.5.6" type="github">
   <diagram id="7Rsvs0vOTl0MpOckWxuK" name="Page-1">
-    <mxGraphModel dx="1038" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="egnwOjGB7XM8ltA7sBcv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jS2ryzKoB4n19PCzrcQI-1" target="Th_g6OGHJ8AeCVoWn9Yl-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="-670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jS2ryzKoB4n19PCzrcQI-1" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;AGB change reference data&lt;/b&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;LiDAR, NFI, FRA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="-840" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ppWgcIUpzZdJKE9_4pGy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="egnwOjGB7XM8ltA7sBcv-2" target="Th_g6OGHJ8AeCVoWn9Yl-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JLodIQpM55jaAIh9ppAy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="egnwOjGB7XM8ltA7sBcv-2" target="Th_g6OGHJ8AeCVoWn9Yl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLodIQpM55jaAIh9ppAy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="egnwOjGB7XM8ltA7sBcv-2" target="JLodIQpM55jaAIh9ppAy-1" edge="1">
@@ -33,10 +22,7 @@
         <mxCell id="egnwOjGB7XM8ltA7sBcv-6" value="&lt;b&gt;Bias-adjusted maps&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="531.8" y="-655" width="88.8" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ppWgcIUpzZdJKE9_4pGy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-1" target="ppWgcIUpzZdJKE9_4pGy-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JLodIQpM55jaAIh9ppAy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-1" target="ppWgcIUpzZdJKE9_4pGy-7" edge="1">
+        <mxCell id="1FyzoZYISyW6Tx04IFL2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-1" target="1FyzoZYISyW6Tx04IFL2-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th_g6OGHJ8AeCVoWn9Yl-1" value="&lt;b&gt;AGB change assessment&lt;/b&gt;&lt;br&gt;&lt;br&gt;500m, 1km, 10km, 25km" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -49,31 +35,36 @@
           <mxGeometry x="518.7" y="-745" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppWgcIUpzZdJKE9_4pGy-1" value="forest = &amp;gt;30% tree cover" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="317.45" y="-840" width="197.5" height="30" as="geometry" />
+          <mxGeometry x="380" y="-870" width="197.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ppWgcIUpzZdJKE9_4pGy-5" value="Carbon accounts of four country cases" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="250.00000000000006" y="-430" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ppWgcIUpzZdJKE9_4pGy-6" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Global climate and carbon input&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="590" y="-430" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ppWgcIUpzZdJKE9_4pGy-7" value="&lt;span&gt;Global, biome and country summary&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="425.00000000000006" y="-430" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JLodIQpM55jaAIh9ppAy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JLodIQpM55jaAIh9ppAy-1" target="ppWgcIUpzZdJKE9_4pGy-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JLodIQpM55jaAIh9ppAy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JLodIQpM55jaAIh9ppAy-1" target="ppWgcIUpzZdJKE9_4pGy-7" edge="1">
+        <mxCell id="1FyzoZYISyW6Tx04IFL2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JLodIQpM55jaAIh9ppAy-1" target="1FyzoZYISyW6Tx04IFL2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLodIQpM55jaAIh9ppAy-1" value="&lt;b&gt;Spatial distribution of change&lt;/b&gt;&lt;br&gt;&lt;br&gt;10 km, 25 km" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="-580" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="H-ItIytfWzJwe7R6BotY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="H-ItIytfWzJwe7R6BotY-1" target="jS2ryzKoB4n19PCzrcQI-1" edge="1">
+        <mxCell id="1FyzoZYISyW6Tx04IFL2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="H-ItIytfWzJwe7R6BotY-1" target="jS2ryzKoB4n19PCzrcQI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H-ItIytfWzJwe7R6BotY-1" value="&lt;b&gt;Suitability check&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="223.75" y="-745" width="82.5" height="45" as="geometry" />
+        <mxCell id="H-ItIytfWzJwe7R6BotY-1" value="&lt;b&gt;Quality check&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-745" width="82.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="1FyzoZYISyW6Tx04IFL2-1" value="&lt;b&gt;Suitability analysis&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335.6" y="-480" width="88.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1FyzoZYISyW6Tx04IFL2-3" value="&lt;b&gt;Substantial changes and global summary&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="-485" width="129.4" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1FyzoZYISyW6Tx04IFL2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Th_g6OGHJ8AeCVoWn9Yl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1FyzoZYISyW6Tx04IFL2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="jS2ryzKoB4n19PCzrcQI-1" target="egnwOjGB7XM8ltA7sBcv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jS2ryzKoB4n19PCzrcQI-1" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;AGB change reference data&lt;/b&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;LiDAR, NFI, FRA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-840" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
