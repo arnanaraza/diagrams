@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T08:40:27.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="tREof3FFGq0Fa4qntDIf" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T09:25:35.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="iSEMQiCiJsuJxejmTSgP" version="16.5.6" type="github">
   <diagram id="7Rsvs0vOTl0MpOckWxuK" name="Page-1">
     <mxGraphModel dx="1038" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="egnwOjGB7XM8ltA7sBcv-2" value="&lt;b&gt;AGB change products&lt;br&gt;&lt;/b&gt;&lt;br&gt;CCI, JPL, Flux, &lt;br&gt;SMOS LVOD&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="535" y="-840" width="130" height="60" as="geometry" />
+          <mxGeometry x="535" y="-850" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JLodIQpM55jaAIh9ppAy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="egnwOjGB7XM8ltA7sBcv-6" target="JLodIQpM55jaAIh9ppAy-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -28,13 +28,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="egnwOjGB7XM8ltA7sBcv-6" value="&lt;b&gt;Bias-adjusted maps per epoch&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="550.9" y="-655" width="98.2" height="40" as="geometry" />
+          <mxGeometry x="550.9" y="-655" width="98.2" height="45" as="geometry" />
         </mxCell>
         <mxCell id="1FyzoZYISyW6Tx04IFL2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-1" target="1FyzoZYISyW6Tx04IFL2-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Th_g6OGHJ8AeCVoWn9Yl-1" value="&lt;b&gt;AGB change assessment&lt;/b&gt;&lt;br&gt;&lt;br&gt;100m, 500m, 1km, &lt;br&gt;10km, 25km" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="-580" width="140" height="70" as="geometry" />
+          <mxGeometry x="315" y="-570" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ppWgcIUpzZdJKE9_4pGy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-3" target="egnwOjGB7XM8ltA7sBcv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -43,19 +43,19 @@
           <mxGeometry x="543.7" y="-745" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppWgcIUpzZdJKE9_4pGy-1" value="forest &amp;gt;30% tree cover" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="390" y="-870" width="197.5" height="30" as="geometry" />
+          <mxGeometry x="400" y="-880" width="197.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1FyzoZYISyW6Tx04IFL2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JLodIQpM55jaAIh9ppAy-1" target="1FyzoZYISyW6Tx04IFL2-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLodIQpM55jaAIh9ppAy-1" value="&lt;b&gt;Spatial analysis (agreement-disagreement)&lt;br&gt;&lt;/b&gt;&lt;br&gt;10 km, 25 km" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-580" width="140" height="70" as="geometry" />
+          <mxGeometry x="530" y="-570" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1FyzoZYISyW6Tx04IFL2-1" value="&lt;b&gt;Suitability analysis&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="335.6" y="-480" width="88.8" height="40" as="geometry" />
+        <mxCell id="1FyzoZYISyW6Tx04IFL2-1" value="&lt;b&gt;Pros and cons of reference data&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="330.3" y="-460" width="109.4" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1FyzoZYISyW6Tx04IFL2-3" value="&lt;b&gt;Biome to global summary of AGB change&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="536.5" y="-485" width="129.4" height="50" as="geometry" />
+          <mxGeometry x="535" y="-460" width="129.4" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1FyzoZYISyW6Tx04IFL2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="1" target="Th_g6OGHJ8AeCVoWn9Yl-1" edge="1" source="M0abBbCf507AWeJDyTVW-1">
           <mxGeometry relative="1" as="geometry">
@@ -65,20 +65,17 @@
         <mxCell id="1FyzoZYISyW6Tx04IFL2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="jS2ryzKoB4n19PCzrcQI-1" target="egnwOjGB7XM8ltA7sBcv-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="M0abBbCf507AWeJDyTVW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jS2ryzKoB4n19PCzrcQI-1" target="M0abBbCf507AWeJDyTVW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jS2ryzKoB4n19PCzrcQI-1" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;AGB change reference data&lt;/b&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;LiDAR, NFI, FRA&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-840" width="130" height="60" as="geometry" />
+          <mxGeometry x="320" y="-850" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1FyzoZYISyW6Tx04IFL2-11" value="&lt;b&gt;2019/8 - 2010 change estimation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="447.5" y="-660" width="82.5" height="45" as="geometry" />
+          <mxGeometry x="447.5" y="-660" width="82.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M0abBbCf507AWeJDyTVW-1" value="&lt;b&gt;Suitability check&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338.75" y="-737.5" width="82.5" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="M0abBbCf507AWeJDyTVW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" target="M0abBbCf507AWeJDyTVW-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="-790" as="sourcePoint" />
-            <mxPoint x="380" y="-580" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="343.75" y="-737.5" width="82.5" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
