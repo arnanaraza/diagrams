@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T18:28:23.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PgHbUj0ils8uPxrysl9k" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T18:35:06.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yLgBaap55rdk4UDTYeDx" version="20.3.6" type="github">
   <diagram id="7FCCXjIass0c8LGfuhQM" name="Page-1">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,9 +8,6 @@
           <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="teEx1f5QK_VXIkJfzbQ1-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="teEx1f5QK_VXIkJfzbQ1-2" target="teEx1f5QK_VXIkJfzbQ1-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="teEx1f5QK_VXIkJfzbQ1-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="teEx1f5QK_VXIkJfzbQ1-2" target="teEx1f5QK_VXIkJfzbQ1-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="teEx1f5QK_VXIkJfzbQ1-2" value="AGB change mapping (RF or Ensemble)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -69,10 +66,13 @@
           <mxGeometry x="490" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="teEx1f5QK_VXIkJfzbQ1-37" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Land cover data&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="244" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="221" y="610" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="teEx1f5QK_VXIkJfzbQ1-39" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Covariates importance and rank&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="228" y="432" width="66" height="66" as="geometry" />
+          <mxGeometry x="154" y="460" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="teEx1f5QK_VXIkJfzbQ1-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="teEx1f5QK_VXIkJfzbQ1-41" target="teEx1f5QK_VXIkJfzbQ1-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="teEx1f5QK_VXIkJfzbQ1-41" value="Linear error correction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="526" width="120" height="60" as="geometry" />
@@ -96,6 +96,15 @@
         </mxCell>
         <mxCell id="teEx1f5QK_VXIkJfzbQ1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="teEx1f5QK_VXIkJfzbQ1-46" target="teEx1f5QK_VXIkJfzbQ1-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="teEx1f5QK_VXIkJfzbQ1-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="teEx1f5QK_VXIkJfzbQ1-47" target="teEx1f5QK_VXIkJfzbQ1-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="teEx1f5QK_VXIkJfzbQ1-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="teEx1f5QK_VXIkJfzbQ1-53" target="teEx1f5QK_VXIkJfzbQ1-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="teEx1f5QK_VXIkJfzbQ1-53" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;AGB change map&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
