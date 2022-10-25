@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T12:29:40.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="nsSRbFGw5kPXsvzyKceK" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T18:40:18.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pzssrerv5_QMKgrqp2c9" version="20.5.1" type="github">
   <diagram id="7FCCXjIass0c8LGfuhQM" name="Page-1">
-    <mxGraphModel dx="1209" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,13 +101,13 @@
         <mxCell id="teEx1f5QK_VXIkJfzbQ1-26" value="USA" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SapkT-yCN-9leXiu0YD5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;" parent="1" source="teEx1f5QK_VXIkJfzbQ1-39" target="asTnqt45lLxpINR-L1pG-4" edge="1">
+        <mxCell id="HY1Ie6rke9uAVWFBcpWW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="teEx1f5QK_VXIkJfzbQ1-39" target="HY1Ie6rke9uAVWFBcpWW-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="teEx1f5QK_VXIkJfzbQ1-39" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Forest classes map&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="460" y="607" width="66" height="66" as="geometry" />
+          <mxGeometry x="470" y="609" width="66" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="asTnqt45lLxpINR-L1pG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="teEx1f5QK_VXIkJfzbQ1-53" target="asTnqt45lLxpINR-L1pG-4" edge="1">
+        <mxCell id="HY1Ie6rke9uAVWFBcpWW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="teEx1f5QK_VXIkJfzbQ1-53" target="HY1Ie6rke9uAVWFBcpWW-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="teEx1f5QK_VXIkJfzbQ1-53" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;AGB change map with SD layer&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -119,8 +119,8 @@
         <mxCell id="asTnqt45lLxpINR-L1pG-1" value="Under-sample area mapping" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="682" y="460" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="asTnqt45lLxpINR-L1pG-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Carbon accounting tables&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="357.5" y="673" width="85" height="85" as="geometry" />
+        <mxCell id="asTnqt45lLxpINR-L1pG-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;National carbon accounting tables&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="357.5" y="800" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="SapkT-yCN-9leXiu0YD5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SapkT-yCN-9leXiu0YD5-11" target="teEx1f5QK_VXIkJfzbQ1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +128,7 @@
         <mxCell id="SapkT-yCN-9leXiu0YD5-11" value="Auto-correlation analysis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="460" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SapkT-yCN-9leXiu0YD5-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.563;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" source="teEx1f5QK_VXIkJfzbQ1-10" target="asTnqt45lLxpINR-L1pG-4" edge="1">
+        <mxCell id="SapkT-yCN-9leXiu0YD5-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.563;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" source="teEx1f5QK_VXIkJfzbQ1-10" target="HY1Ie6rke9uAVWFBcpWW-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="129.6500000000001" y="419.78999999999996" as="sourcePoint" />
             <mxPoint x="230" y="485" as="targetPoint" />
@@ -142,6 +142,18 @@
             <mxPoint x="139.65000000000032" y="429.78999999999974" as="sourcePoint" />
             <mxPoint x="375" y="715" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HY1Ie6rke9uAVWFBcpWW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HY1Ie6rke9uAVWFBcpWW-2" target="asTnqt45lLxpINR-L1pG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HY1Ie6rke9uAVWFBcpWW-2" value="Pixel to forest class aggregation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HY1Ie6rke9uAVWFBcpWW-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;100 m&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HY1Ie6rke9uAVWFBcpWW-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;100 m&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="617" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
