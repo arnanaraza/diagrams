@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T10:37:04.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="vwI-3kocALkmRRQjXERV" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T11:19:49.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="hH_zdNX7bcNwO026GQJq" version="20.8.1" type="github">
   <diagram id="7Rsvs0vOTl0MpOckWxuK" name="Page-1">
-    <mxGraphModel dx="1744" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Zk0GwfeX5wXwcX-zLjek-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="egnwOjGB7XM8ltA7sBcv-2" target="u8DO1T8vF4OuRP5lVbpe-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="egnwOjGB7XM8ltA7sBcv-2" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;AGB change &lt;br&gt;data sources&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;i&gt;CCI (100 m)&lt;br&gt;Flux (100 m)&lt;br&gt;JPL (10 km)&lt;br&gt;LVOD (25 km)&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="egnwOjGB7XM8ltA7sBcv-2" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;AGB change &lt;br&gt;data sources&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;i&gt;CCI 2010-2018 (100 m)&lt;br&gt;Flux 2010-2019 (100 m)&lt;br&gt;JPL 2010-2019 (10 km)&lt;br&gt;LVOD 2011-2019 (25 km)&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry y="-670" width="152.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Zk0GwfeX5wXwcX-zLjek-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="Th_g6OGHJ8AeCVoWn9Yl-1" target="92gBLnSvdsziaQlEnURo-14" edge="1">
@@ -67,7 +67,7 @@
         <mxCell id="Zk0GwfeX5wXwcX-zLjek-29" value="&lt;i&gt;Uncertainty &lt;br&gt;as weights&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="543" y="-476.24" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="za-5DIqnnQ4EJyMyhdmJ-1" value="&lt;i&gt;LVOD as mask&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="za-5DIqnnQ4EJyMyhdmJ-1" value="&lt;i&gt;LVOD as mask&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="850" y="-530" width="154" height="40" as="geometry" />
         </mxCell>
       </root>
