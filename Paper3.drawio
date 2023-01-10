@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T09:13:46.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="FZPfToj8sCO392ocfikE" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T09:19:07.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="-4hkEI-SPdTvo2z1R_0z" version="20.8.3" type="github">
   <diagram id="7FCCXjIass0c8LGfuhQM" name="Page-1">
-    <mxGraphModel dx="1744" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,6 +215,12 @@
         </mxCell>
         <mxCell id="QPVWIPGNWYsc6U1EdOR2-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;AGB change prediction intervals&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="410" y="691" width="91" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="QPVWIPGNWYsc6U1EdOR2-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;MAIN STEP 2&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="674" y="690" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QPVWIPGNWYsc6U1EdOR2-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;MAIN STEP 1&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="674" y="620" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
