@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T05:44:18.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.10" etag="t-7s73-M0gj__QH1MxdK" type="github"><diagram name="Page-1" id="SI4fEuh6l0HK1wXVAPzH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-23T06:25:39.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="B25jquebsBmGRjOB2QVL" version="20.8.10" type="github">
+  <diagram name="Page-1" id="SI4fEuh6l0HK1wXVAPzH">
+    <mxGraphModel dx="1050" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-1" value="Carbon fluxes 2010-2018" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-10" value="STOCK DIFFERENCE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-11" value="GAIN-LOSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-12" value="Activity data" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="405" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-14" value="Global AGB map 2018" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-15" value="Global AGB maps 2010" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-18" value="Other environmental remote sensing data" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-19" value="Reference data" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-20" value="Monthly carbon emissions" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-21" value="Global AGB map 2010&lt;br&gt;&lt;br&gt;Bias-adjusted" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UYEdQvo1FTEmNgZlHT_z-22" value="MAP ASSESSMENT AND UNCERTAINTY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
