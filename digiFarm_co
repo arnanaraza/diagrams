@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T16:42:32.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.9" etag="OV3s1YH7HKs9M5dif2jj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T16:58:37.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vsBYafZiGcIe5dzZTaEt" version="21.2.9" type="github">
   <diagram name="Page-1" id="LFXkjVQJarUButmyHNoN">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-1" value="Screen 1-2 (same as farmers)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4abaeSCVLv58Mb_4wFkt-2" target="4abaeSCVLv58Mb_4wFkt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4abaeSCVLv58Mb_4wFkt-2" target="4abaeSCVLv58Mb_4wFkt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4abaeSCVLv58Mb_4wFkt-2" target="4abaeSCVLv58Mb_4wFkt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-2" value="Screen 3 ACCESS INFORMATION" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-3" value="Farmers" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-4" value="Supply chain" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-5" value="Sales force" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Three choices from the company manager / owner&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-7" value="Screen 4 SALES FORCE ANALYTICS&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-40" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-9" value="SF" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-10" value="F" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-11" value="SC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-16" value="Q" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="800" y="190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4abaeSCVLv58Mb_4wFkt-17" value="AREA DROP-DOWN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
