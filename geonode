@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T06:50:55.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="QyiNqxd2ghRlFVqxjQqU" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T07:28:07.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8zreyG-kkt8muXpn7Kv6" version="22.0.4" type="github">
   <diagram name="Page-1" id="_VG9zJlvzwAZuPEWESzW">
-    <mxGraphModel>
+    <mxGraphModel dx="1235" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i4PhACvJnvH4qMoH9uEl-1" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-06cac690-7fff-8007-64b5-2f8d9b97a3a2&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:358px;height:415px;&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/L-dDq8v-_Nb5WXk4f2KJDjJWaxYuhyWbbu-caE1_skeNJOLLe5z1p-XABTUhqfmACe_Od9rlF5n0Lc6dmDj7UNv1NU15fWRbnsB5GRuAFIxGuGBRqMZG1-ExThFsX10SzIqREYhHQLiTLO_p4megMEo&quot; width=&quot;358&quot; height=&quot;415&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="390" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="i4PhACvJnvH4qMoH9uEl-2" value="ESRI DIIF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i4PhACvJnvH4qMoH9uEl-3" value="ESRI Visualization: &lt;br&gt;Web Maps, Dashboards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
