@@ -10,20 +10,20 @@
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-2" target="CKC33R4wWAwpJ6xkKlqQ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-2" value="Seasonal Growth Stage Map (Sentinel-1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="130" height="60" as="geometry" />
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Seasonal Growth Stage Map (Sentinel-1)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="270" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-3" target="CKC33R4wWAwpJ6xkKlqQ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-3" value="Flood Extent Map (Sentinel-1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="190" width="130" height="60" as="geometry" />
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Flood Extent Map (Sentinel-1)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="190" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-4" target="CKC33R4wWAwpJ6xkKlqQ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-4" value="MODIS Vegetation Health index (VHI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="130" height="60" as="geometry" />
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;MODIS Vegetation Health index (VHI)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="350" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-6" target="CKC33R4wWAwpJ6xkKlqQ-12">
           <mxGeometry relative="1" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-10" target="CKC33R4wWAwpJ6xkKlqQ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Error propagation and uncertainty estimation using Monte Carlo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Error propagation and uncertainty estimation using Monte Carlo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1110" y="240" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-12" target="CKC33R4wWAwpJ6xkKlqQ-21">
@@ -44,68 +44,83 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-12" value="Flood depth mapping with uncertainty using FwDET 2.1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Flood depth mapping with uncertainty using FwDET 2.1&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="175" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-14" target="CKC33R4wWAwpJ6xkKlqQ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-14" value="Derived damage curves specific to flood and drought" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-14" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Damage curves specific to flood and drought&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-17" target="CKC33R4wWAwpJ6xkKlqQ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-17" value="Deriving the severity of drought probability" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Deriving the severity of drought probability&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="335" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-18" target="CKC33R4wWAwpJ6xkKlqQ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-18" value="Extents of affected rice areas" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Maps of affected rice area&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-19" target="CKC33R4wWAwpJ6xkKlqQ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-19" value="% Yield Damage with uncertainty layer" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-19" value="&lt;font&gt;% Yield damage with uncertainty layer&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-20" target="CKC33R4wWAwpJ6xkKlqQ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-20" value="Running the fuzzy hazard damage model" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Running the hazard damage model&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="800" y="250" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-21" target="CKC33R4wWAwpJ6xkKlqQ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-21" value="Map validation&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-21" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Map validation&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="815" y="160" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-22" target="CKC33R4wWAwpJ6xkKlqQ-23">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-22" target="CKC33R4wWAwpJ6xkKlqQ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-22" value="&lt;font&gt;Damage reports from national and local governments, other secondary data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="265" width="140" height="60" as="geometry" />
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-22" target="CKC33R4wWAwpJ6xkKlqQ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-22" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Damage reports from national and local governments, other secondary data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-23" target="CKC33R4wWAwpJ6xkKlqQ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-23" value="Data of rice farm gate price, production cost" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-23" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Data of rice farm gate price, production cost&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="265" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-24" value="TOTAL DAMAGE COST PER FLOOD AND DROUGHT EVENT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-24" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;TOTAL DAMAGE COST PER FLOOD AND DROUGHT EVENT&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="410" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CKC33R4wWAwpJ6xkKlqQ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKC33R4wWAwpJ6xkKlqQ-25" target="CKC33R4wWAwpJ6xkKlqQ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-25" value="Baseline yield Map (without/minimal disaster event)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Baseline yield Map (without/minimal disaster event)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="700" y="420" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-58" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CKC33R4wWAwpJ6xkKlqQ-60">
+          <mxGeometry width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;EO Input&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CKC33R4wWAwpJ6xkKlqQ-60">
+          <mxGeometry x="80" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-54" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Intermediate/ final output&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="CKC33R4wWAwpJ6xkKlqQ-60">
+          <mxGeometry x="190" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CKC33R4wWAwpJ6xkKlqQ-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Step&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="CKC33R4wWAwpJ6xkKlqQ-60">
+          <mxGeometry x="20" y="10" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
