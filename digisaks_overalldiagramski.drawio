@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="Page-1" id="_DEGwohvIMdw3LQ1OrX1">
-    <mxGraphModel>
+    <mxGraphModel dx="1415" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-21" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Doc Pandoy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="310" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Digisaka Sense&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="290" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-2" value="Digisaka Fields" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-3" value="Digisaka Crops" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-4" value="Digisaka Plantations" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-7" value="Digisaka Trace" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-8" value="Digisaka Low Carbon" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-11" value="Tanod System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-12" value="Digisaka System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-14" value="Digisaka Marketplace" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-15" value="Biyahe Ni Leads" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-16" value="Jackpot All Stars" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="730" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-17" value="Rice Derby" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-18" value="Digisaka Trials" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
