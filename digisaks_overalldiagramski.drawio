@@ -91,7 +91,7 @@
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JD-ONh8D0o3gqRefV-Rv-38" target="JD-ONh8D0o3gqRefV-Rv-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JD-ONh8D0o3gqRefV-Rv-38" value="Digisaka Crops" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-38" value="DigiGulay" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="810" y="850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JD-ONh8D0o3gqRefV-Rv-39" target="JD-ONh8D0o3gqRefV-Rv-35">
@@ -100,7 +100,7 @@
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JD-ONh8D0o3gqRefV-Rv-39" target="JD-ONh8D0o3gqRefV-Rv-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JD-ONh8D0o3gqRefV-Rv-39" value="Digisaka Plantations" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-39" value="Sipat Plantation" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="910" y="850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JD-ONh8D0o3gqRefV-Rv-41" target="JD-ONh8D0o3gqRefV-Rv-44">
