@@ -82,34 +82,34 @@
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;SenseSaka&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=light-dark(#394bd5, #ededed);" parent="1" vertex="1">
           <mxGeometry x="670" y="790" width="695" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ECRtVTkRqhrO2qnu6T_t-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JD-ONh8D0o3gqRefV-Rv-37" target="JD-ONh8D0o3gqRefV-Rv-38">
+        <mxCell id="ECRtVTkRqhrO2qnu6T_t-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="JD-ONh8D0o3gqRefV-Rv-37" target="JD-ONh8D0o3gqRefV-Rv-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-37" value="Digisaka Fields" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="670" y="810" width="80" height="80" as="geometry" />
+          <mxGeometry x="680" y="840" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ECRtVTkRqhrO2qnu6T_t-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JD-ONh8D0o3gqRefV-Rv-38" target="JD-ONh8D0o3gqRefV-Rv-39">
+        <mxCell id="ECRtVTkRqhrO2qnu6T_t-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="JD-ONh8D0o3gqRefV-Rv-38" target="JD-ONh8D0o3gqRefV-Rv-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-38" value="DigiGulay" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="770" y="810" width="80" height="80" as="geometry" />
+          <mxGeometry x="780" y="840" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ECRtVTkRqhrO2qnu6T_t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JD-ONh8D0o3gqRefV-Rv-39" target="JD-ONh8D0o3gqRefV-Rv-54">
+        <mxCell id="ECRtVTkRqhrO2qnu6T_t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JD-ONh8D0o3gqRefV-Rv-39" target="JD-ONh8D0o3gqRefV-Rv-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ECRtVTkRqhrO2qnu6T_t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JD-ONh8D0o3gqRefV-Rv-39" target="JD-ONh8D0o3gqRefV-Rv-41">
+        <mxCell id="ECRtVTkRqhrO2qnu6T_t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JD-ONh8D0o3gqRefV-Rv-39" target="JD-ONh8D0o3gqRefV-Rv-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ECRtVTkRqhrO2qnu6T_t-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JD-ONh8D0o3gqRefV-Rv-39" target="JD-ONh8D0o3gqRefV-Rv-44">
+        <mxCell id="ECRtVTkRqhrO2qnu6T_t-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JD-ONh8D0o3gqRefV-Rv-39" target="JD-ONh8D0o3gqRefV-Rv-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-39" value="Sipat Plantation" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="870" y="810" width="80" height="80" as="geometry" />
+          <mxGeometry x="880" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="JD-ONh8D0o3gqRefV-Rv-41" target="JD-ONh8D0o3gqRefV-Rv-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JD-ONh8D0o3gqRefV-Rv-41" value="Digisaka Trace" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-41" value="Digisaka Trace" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1160" y="930" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="JD-ONh8D0o3gqRefV-Rv-44" target="JD-ONh8D0o3gqRefV-Rv-41" edge="1">
@@ -118,17 +118,8 @@
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JD-ONh8D0o3gqRefV-Rv-44" target="JD-ONh8D0o3gqRefV-Rv-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JD-ONh8D0o3gqRefV-Rv-44" value="Digisaka Low Carbon" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="JD-ONh8D0o3gqRefV-Rv-44" value="Digisaka Low Carbon" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1260" y="930" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JD-ONh8D0o3gqRefV-Rv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JD-ONh8D0o3gqRefV-Rv-47" target="JD-ONh8D0o3gqRefV-Rv-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JD-ONh8D0o3gqRefV-Rv-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JD-ONh8D0o3gqRefV-Rv-47" target="JD-ONh8D0o3gqRefV-Rv-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JD-ONh8D0o3gqRefV-Rv-47" value="Tanod System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JD-ONh8D0o3gqRefV-Rv-48" value="Digisaka Marketplace" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1390" y="930" width="80" height="80" as="geometry" />
