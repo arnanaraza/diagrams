@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-10-02T19:38:36.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" etag="LRWZxYQ_cLCqRXLOGggS" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.4">
   <diagram name="Page-1" id="iY4odXbDhtrwmh1eWkCs">
-    <mxGraphModel dx="1212" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="SEqpOoy5PrQXktLys6SQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pLNziHSg2PqYxef313HT-9" target="SEqpOoy5PrQXktLys6SQ-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pLNziHSg2PqYxef313HT-9" value="CCI Biomass v5 2010, 2017, 2018, 2019, 2020, 2021" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="pLNziHSg2PqYxef313HT-9" value="CCI Biomass v5 2010, 2015-2021" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="300" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SEqpOoy5PrQXktLys6SQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pLNziHSg2PqYxef313HT-10" target="SEqpOoy5PrQXktLys6SQ-16" edge="1">
@@ -79,7 +79,7 @@
         <mxCell id="SEqpOoy5PrQXktLys6SQ-29" value="Carbon accounts (UNFCCC)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="990" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WNoCRWKxytOEJD-OGdTC-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ar16.iiasa.ac.at/wp-content/uploads/sites/2/2017/06/ii-logo.jpg;" vertex="1" parent="1">
+        <mxCell id="WNoCRWKxytOEJD-OGdTC-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ar16.iiasa.ac.at/wp-content/uploads/sites/2/2017/06/ii-logo.jpg;" parent="1" vertex="1">
           <mxGeometry x="715" y="460" width="50" height="70.9" as="geometry" />
         </mxCell>
       </root>
